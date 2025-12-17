@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/prateek33843-commits/prateek33843-commits/blob/main/DAta%20Science.jfif)
 # 💫 About Me:
 🔭 I’m currently working on: A comprehensive EDA project on the Titanic dataset.<br><br>🌱 I’m currently learning: The fundamentals of Linear Algebra and Python's Matplotlib.<br><br>🤝 I’m looking for help with: Optimizing my Git workflow and understanding 'Big O' notation.<br><br>⚡ Fun fact: I drink more coffee than my code has lines!
 
