@@ -1,4 +1,4 @@
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/14ded3cd-9b1d-4725-a2af-a7579ac1ab46" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/14ded3cd-9b1d-4725-a2af-a7579ac1ab46" />
 
 # 💫 About Me:
 🔭 I’m currently working on: A comprehensive EDA project on the Titanic dataset.<br><br>🌱 I’m currently learning: The fundamentals of Linear Algebra and Python's Matplotlib.<br><br>🤝 I’m looking for help with: Optimizing my Git workflow and understanding 'Big O' notation.<br><br>⚡ Fun fact: I drink more coffee than my code has lines!
